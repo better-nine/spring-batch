@@ -2,9 +2,12 @@
 
 # Spring Batch [![build status](https://github.com/spring-projects/spring-batch/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/spring-projects/spring-batch/actions/workflows/continuous-integration.yml)
 
-Spring Batch is a lightweight, comprehensive batch framework designed to enable the development of robust batch applications vital for the daily operations of enterprise systems.  Spring Batch builds upon the productivity, POJO-based development approach, and general ease of use capabilities people have come to know from the [Spring Framework](https://github.com/spring-projects/spring-framework), while making it easy for developers to access and leverage more advanced enterprise services when necessary.
+Spring Batch는 엔터프라이즈 시스템의 일상적인 운영에 필수적인 강력한 배치 애플리케이션 개발을 지원하도록 설계된 가볍고 포괄적인 배치 프레임워크입니다.
+Spring Batch는 사람들이 [Spring Framework](https://github.com/spring-projects/spring-framework)에서 알게 된 생산성, POJO 기반 개발 접근 방식 및 일반적인 사용 편의성 기능을 기반으로 구축되었습니다. 개발자는 필요할 때 더욱 발전된 엔터프라이즈 서비스에 쉽게 액세스하고 활용할 수 있습니다.
 
-If you are looking for a runtime orchestration tool for your Batch applications, or need a management console to view current and historic executions, take a look at [Spring Cloud Data Flow](https://cloud.spring.io/spring-cloud-dataflow/).  It is an orchestration tool for deploying and executing data integration based microservices including Spring Batch applications.
+Batch 애플리케이션을 위한 런타임 조정 도구를 찾고 있거나 현재 및 기록 실행을 보기 위한 관리 콘솔이 필요한 경우 [Spring Cloud Data Flow] (https://cloud.spring.io/spring-cloud)을 살펴보세요. 
+Spring Batch 애플리케이션을 포함한 데이터 통합 ​​기반 마이크로서비스를 배포하고 실행하기 위한 오케스트레이션 도구입니다.
+
 
 # Getting Started
 
