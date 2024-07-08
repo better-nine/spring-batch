@@ -9,13 +9,13 @@ Batch 애플리케이션을 위한 런타임 조정 도구를 찾고 있거나 �
 Spring Batch 애플리케이션을 포함한 데이터 통합 ​​기반 마이크로서비스를 배포하고 실행하기 위한 오케스트레이션 도구입니다.
 
 
-# Getting Started
+# 시작하기
 
-## Two minutes tutorial
+## 2분 과정
 
-This quick tutorial shows you how to setup a minimal project to run a simple batch job with Spring Batch.
+이 신속한 과정에선 Spring Batch를 사용하여 간단한 배치 작업을 실행하기 위해 최소 프로젝트를 설정하는 방법을 보여줍니다.
 
-In your favorite IDE, create a new Maven-based Java 17+ project and add the following dependencies:
+선호하는 IDE에서 새로운 Maven 기반 Java 17+ 프로젝트를 생성하고 다음 종속성을 추가합니다.:
 
 ```xml
 <dependencies>
@@ -33,7 +33,7 @@ In your favorite IDE, create a new Maven-based Java 17+ project and add the foll
 </dependencies>
 ```
 
-Then, create a configuration class to define the datasource and transaction manager that will be used by the job repository:
+다음으로 job repository에서 사용할 데이터 소스 및 트랜잭션 관리자를 정의하는 configuration class를 만듭니다.:
 
 ```java
 import javax.sql.DataSource;
